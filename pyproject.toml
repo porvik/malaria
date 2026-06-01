@@ -1,0 +1,14 @@
+[project]
+name = "malaria"
+version = "0.1.0"
+description = "Jupyter Book 2 project for malaria identification"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyterlab",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "biopython",
+    "jupyter>=1.1.1",
+    "mystmd>=1.9.1",
+]
